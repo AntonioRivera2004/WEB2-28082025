@@ -9,7 +9,7 @@ var logico = 20==10||8>3;
 console.log(logico);
 */
 
-//Tablas logica de AND y OR
+//Tablas logicaS de AND y OR
 
 //AND
 console.log("AND: ")

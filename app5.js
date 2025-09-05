@@ -1,3 +1,5 @@
+//PROGRAMA DONDE INGRESAS 3 NUMEROS Y COLOCAS EL MAYOR Y EL MENOR
+//EN CASO DE HABER 2 NUMEROS IGUALES DICE CUALES SON.
 let numA=prompt("Ingresa el numero A: ");
 let numB=prompt("Ingresa el numero B: ");
 let numC=prompt("Ingresa el numero C: ");
