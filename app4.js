@@ -19,3 +19,6 @@ if(port){
 }else{
     console.log("Error en puerto");
 }
+
+let datos = 15 !=15;
+console.log(datos);
